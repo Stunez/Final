@@ -3,7 +3,7 @@ django-filter==0.11.0
 django-grappelli==2.7.1
 django-simple-captcha==0.4.5
 django-tinymce==2.3.0
-djangorestframework==3.2.4
+djangorestframework==3.11.2
 Markdown==2.6.2
 Pillow==3.0.0
 requests==2.7.0
